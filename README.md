@@ -41,4 +41,5 @@ streamlit run app.py
 
 ## Author
 
-Muneeb Khan
+Muneeb Khan Dawar
+
